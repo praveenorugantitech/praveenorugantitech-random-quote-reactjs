@@ -6,7 +6,7 @@
 
 
 
-[Live Demo](https://praveen-random-quote-app.firebaseapp.com/)
+[Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-random-quote-reactjs/)
 
 
 
