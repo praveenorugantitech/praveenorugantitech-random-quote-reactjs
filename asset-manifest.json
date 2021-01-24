@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/praveenorugantitech-random-quote-reactjs/static/css/main.9ffa3c85.chunk.css",
+    "main.js": "/praveenorugantitech-random-quote-reactjs/static/js/main.44336914.chunk.js",
+    "runtime-main.js": "/praveenorugantitech-random-quote-reactjs/static/js/runtime-main.7120d0ce.js",
+    "static/js/2.48e04daa.chunk.js": "/praveenorugantitech-random-quote-reactjs/static/js/2.48e04daa.chunk.js",
+    "index.html": "/praveenorugantitech-random-quote-reactjs/index.html",
+    "precache-manifest.6867605bbebdbd8d66a507b57ce2c964.js": "/praveenorugantitech-random-quote-reactjs/precache-manifest.6867605bbebdbd8d66a507b57ce2c964.js",
+    "service-worker.js": "/praveenorugantitech-random-quote-reactjs/service-worker.js",
+    "static/js/2.48e04daa.chunk.js.LICENSE.txt": "/praveenorugantitech-random-quote-reactjs/static/js/2.48e04daa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7120d0ce.js",
+    "static/js/2.48e04daa.chunk.js",
+    "static/css/main.9ffa3c85.chunk.css",
+    "static/js/main.44336914.chunk.js"
+  ]
+}
