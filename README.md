@@ -1,4 +1,4 @@
-# Random Quote developed using React JS
+# Random Quote developed using React JS and Material UI
 
 ### API
 
