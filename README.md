@@ -2,7 +2,7 @@
 
 ### API
 
-[https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-test/master/QuotesData/quotes.json](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-test/master/QuotesData/quotes.json)
+[https://60194faefa0b1f0017accd87.mockapi.io/api/v1/quotes](https://60194faefa0b1f0017accd87.mockapi.io/api/v1/quotes)
 
 ### App Screenshots
 
